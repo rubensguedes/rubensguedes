@@ -1,42 +1,44 @@
 <div align="center">
-  <h1>Rubens Guedes</h1>
-  <p><strong>Gestão e Governança de TI</strong></p>
-  <br>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=1000&color=2A69A4&center=true&vCenter=true&width=600&lines=Lideran%C3%A7a+em+Tecnologia;Gest%C3%A3o+de+Servi%C3%A7os+de+TI;Governan%C3%A7a+e+Estrat%C3%A9gia;Alinhando+TI+ao+Neg%C3%B3cio" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=45&pause=1000&color=FFFFFF&background=0A192F&center=true&vCenter=true&width=800&height=120&lines=Rubens+Guedes" alt="Rubens Guedes" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=1000&color=64FFDA&background=0A192F&center=true&vCenter=true&width=800&height=60&lines=Lideran%C3%A7a+em+Tecnologia;Arquitetura+de+Redes+e+Cloud;Gest%C3%A3o+de+Servi%C3%A7os+de+TI;Governan%C3%A7a+e+Estrat%C3%A9gia" alt="Gestão e Governança" />
 </div>
 
----
+<br>
 
-### 💼 Perfil Profissional
+### 💼 Meu Perfil Profissional
 
-Profissional com sólida experiência em **Gestão e Governança de Tecnologia da Informação**. Meu foco no GitHub é compartilhar e evoluir soluções que agregam valor ao negócio através de processos estruturados e gestão inteligente.
+Tenho sólida experiência em **Gestão, Governança de TI e Arquitetura de Redes**. Meu foco aqui no GitHub é compartilhar e evoluir soluções que agregam valor ao negócio através de processos estruturados, gestão inteligente e infraestruturas escaláveis e seguras.
 
-- 🎯 **Foco Principal:** Alinhamento estratégico entre TI e Negócios, estruturação de processos e entrega de valor.
-- 📈 **Áreas de Atuação:** ITIL, COBIT, PMO, Metodologias Ágeis (Scrum/Kanban), Gestão de Riscos e Continuidade.
-- 💡 **No meu GitHub você encontrará:**
-  - Manuais, frameworks e modelos de governança.
-  - Guias de boas práticas para gestão e operação de TI.
-  - Modelos de relatórios analíticos para tomada de decisão estratégica.
+- 🎯 **Meu Foco Principal:** Alinhamento estratégico entre TI e Negócios, topologias de redes e entrega contínua de valor.
+- 📈 **Minhas Áreas de Atuação:** Arquitetura de Redes, ITIL, COBIT, PMO, Cloud Computing, Metodologias Ágeis e Continuidade de Negócios.
+- 💡 **O que você encontrará nos meus repositórios:**
+  - Meus manuais, frameworks e modelos de governança.
+  - Guias que estruturei com boas práticas para gestão e operação de TI.
+  - Minhas documentações de arquitetura de redes, topologias e infraestrutura como código (IaC).
   - Projetos pessoais e scripts de automação.
 
 ---
 
-### ⚙️ Competências e Ferramentas
+### ⚙️ Minhas Competências e Ferramentas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=azure,aws,linux,docker,kubernetes,postgres,python,powershell,git,github&perline=10" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,postgres,python,powershell,git,github&perline=10" />
 </div>
 
 <br>
 
 <div align="center">
+  <!-- Gestão e Governança -->
   <img src="https://img.shields.io/badge/ITIL-005B9F?style=for-the-badge&logo=itil&logoColor=white" />
   <img src="https://img.shields.io/badge/COBIT-003366?style=for-the-badge&logo=codio&logoColor=white" />
   <img src="https://img.shields.io/badge/Scrum-008F8F?style=for-the-badge&logo=scrum&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white" />
+  <br><br>
+  <!-- Redes, Cloud e Infraestrutura -->
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
 </div>
 
 ---
@@ -45,6 +47,6 @@ Profissional com sólida experiência em **Gestão e Governança de Tecnologia d
 
 <div align="center">
   <a href="https://linkedin.com/in/rubensguedes" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
