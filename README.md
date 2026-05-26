@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.svg" alt="Banner Profile" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Rubens%20Guedes&fontSize=45&fontColor=ffffff&desc=Gestão%20de%20TI%20%7C%20Governança%20%7C%20Gerência%20de%20Serviços&descSize=18&descColor=0ea5e9" alt="Banner Profile" />
 </div>
 
 <br>
@@ -25,11 +25,15 @@ Criei este espaço como um acervo focado na estruturação e governança de oper
 
 ---
 
-### 📈 Distribuição de Foco (Áreas de Atuação)
+### 🔄 Ecossistema de Processos e Relacionamento
 
-<div align="center">
-  <img src="https://quickchart.io/chart?w=600&h=300&c={type:'doughnut',data:{labels:['Governança_e_Gerência_de_TI','Estruturação_de_Processos','Atendimento_ao_Cliente','Gestão_de_Serviços_(ITIL)'],datasets:[{data:[30,25,25,20],backgroundColor:['%230A192F','%23005B9F','%230089D6','%23333333']}]},options:{plugins:{legend:{position:'right',labels:{font:{size:13,family:'sans-serif'}}}}}}" alt="Gráfico de Atuação" />
-</div>
+🏢 **Estratégia e Negócios**
+ ┣━ ⚖️ **Governança de TI**
+ ┃   ┣━ ⚙️ **Gestão de Serviços (ITSM)** ➔ Suporte e Atendimento
+ ┃   ┗━ 📈 **Gestão de Processos** ➔ Melhoria Contínua
+ ┃
+ ┗━ 🤝 **Cliente Final (Relacionamento)**
+     ┗━ 🔄 *Feedback e Geração de Valor*
 
 ---
 
@@ -42,9 +46,7 @@ Criei este espaço como um acervo focado na estruturação e governança de oper
   <img src="https://img.shields.io/badge/Atendimento_ao_Cliente-333333?style=for-the-badge&logo=jira&logoColor=white" />
 </div>
 
----
-
-### 🌐 Conexão e Networking
+<br>
 
 <div align="center">
   <a href="https://linkedin.com/in/rubensguedes" target="_blank">
