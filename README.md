@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0f172a&height=200&section=header&text=Rubens%20Guedes&fontSize=45&fontColor=ffffff&desc=Gestão%20de%20TI%20%7C%20Governança%20%7C%20Gerência%20de%20Serviços&descSize=18&descColor=0ea5e9" alt="Banner Profile" />
+  <img src="banner.svg" alt="Banner Profile" />
 </div>
 
 <br>

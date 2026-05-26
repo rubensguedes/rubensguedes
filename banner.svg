@@ -1,0 +1,53 @@
+<svg width="800" height="280" viewBox="0 0 800 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0ea5e9" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+  </defs>
+
+  <rect width="800" height="280" rx="16" fill="url(#bg)"/>
+  
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#ffffff" stroke-width="0.5" stroke-opacity="0.04"/>
+  </pattern>
+  <rect width="800" height="280" rx="16" fill="url(#grid)"/>
+
+  <rect x="0" y="0" width="800" height="4" fill="url(#accent)"/>
+
+  <circle cx="700" cy="50" r="150" fill="#0ea5e9" opacity="0.15" filter="blur(40px)"/>
+  <circle cx="800" cy="250" r="200" fill="#6366f1" opacity="0.15" filter="blur(60px)"/>
+
+  <style>
+    .name { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 800; font-size: 44px; fill: #f8fafc; letter-spacing: -1px; }
+    .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 20px; fill: url(#accent); letter-spacing: 0.5px; }
+    .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 400; font-size: 15px; fill: #94a3b8; line-height: 1.6; }
+    .pill { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 600; font-size: 13px; fill: #e2e8f0; }
+  </style>
+
+  <g transform="translate(50, 70)">
+    <text x="0" y="0" class="name">Rubens Guedes</text>
+    <text x="0" y="35" class="title">Gestão de TI | Governança | Gerência de Serviços</text>
+    
+    <text x="0" y="75" class="desc">Foco na estruturação de processos, excelência no atendimento ao cliente e</text>
+    <text x="0" y="98" class="desc">alinhamento estratégico entre a operação de TI e os objetivos de negócio.</text>
+    
+    <g transform="translate(0, 140)">
+      <rect x="0" y="0" width="130" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+      <text x="65" y="19" class="pill" text-anchor="middle">Governança &amp; TI</text>
+
+      <rect x="140" y="0" width="100" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+      <text x="190" y="19" class="pill" text-anchor="middle">Processos</text>
+
+      <rect x="250" y="0" width="110" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+      <text x="305" y="19" class="pill" text-anchor="middle">Atendimento</text>
+
+      <rect x="370" y="0" width="110" height="28" rx="14" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+      <text x="425" y="19" class="pill" text-anchor="middle">ITIL &amp; COBIT</text>
+    </g>
+  </g>
+</svg>
