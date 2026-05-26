@@ -1,12 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:112A46,100:2A69A4&height=250&section=header&text=Rubens%20Guedes&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Gestão%20e%20Governança%20de%20TI&descAlignY=55&descAlign=62"/>
-</div>
-
-<h3 align="center">
+  <h1>Rubens Guedes</h1>
+  <p><strong>Gestão e Governança de TI</strong></p>
+  <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=2A69A4&center=true&vCenter=true&width=500&lines=Lideran%C3%A7a+em+Tecnologia;Gest%C3%A3o+de+Servi%C3%A7os+de+TI;Governan%C3%A7a+e+Estrat%C3%A9gia;Alinhando+TI+ao+Neg%C3%B3cio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&pause=1000&color=2A69A4&center=true&vCenter=true&width=600&lines=Lideran%C3%A7a+em+Tecnologia;Gest%C3%A3o+de+Servi%C3%A7os+de+TI;Governan%C3%A7a+e+Estrat%C3%A9gia;Alinhando+TI+ao+Neg%C3%B3cio" alt="Typing SVG" />
   </a>
-</h3>
+</div>
 
 ---
 
@@ -42,24 +41,10 @@ Profissional com sólida experiência em **Gestão e Governança de Tecnologia d
 
 ---
 
-### 📊 Minha Atividade
-
-*(Espaço reservado para as métricas automáticas do GitHub conforme você adiciona seus manuais e modelos)*
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubensguedes&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=2A69A4" height="150" alt="Estatísticas do GitHub"/>
-</div>
-
----
-
 ### 🌐 Conecte-se comigo
 
 <div align="center">
   <a href="https://linkedin.com/in/rubensguedes" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:112A46,100:2A69A4&height=100&section=footer"/>
 </div>
