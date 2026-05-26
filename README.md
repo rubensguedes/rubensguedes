@@ -4,7 +4,7 @@
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=2A69A4&center=true&vCenter=true&width=500&lines=Liderança+em+Tecnologia;Gestão+de+Serviços+de+TI;Governança+e+Estratégia;Alinhando+TI+ao+Negócio" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=2A69A4&center=true&vCenter=true&width=500&lines=Lideran%C3%A7a+em+Tecnologia;Gest%C3%A3o+de+Servi%C3%A7os+de+TI;Governan%C3%A7a+e+Estrat%C3%A9gia;Alinhando+TI+ao+Neg%C3%B3cio" alt="Typing SVG" />
   </a>
 </h3>
 
