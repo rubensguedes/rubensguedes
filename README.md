@@ -40,7 +40,7 @@ Criei este espaço como um acervo focado na estruturação e governança de oper
 ### 📈 Distribuição de Foco (Áreas de Atuação)
 
 <div align="center">
-  <img src="https://quickchart.io/chart?w=600&h=300&c={type:'doughnut',data:{labels:['Governança_e_Gerência_de_TI','Estruturação_de_Processos','Atendimento_ao_Cliente','Gestão_de_Serviços_(ITIL)','Inovação_e_Inteligência_Artificial'],datasets:[{data:[25,20,20,15,20],backgroundColor:['%230A192F','%23005B9F','%230089D6','%23333333','%230ea5e9']}]},options:{plugins:{legend:{position:'right',labels:{font:{size:12,family:'sans-serif'}}}}}}" alt="Gráfico de Atuação" />
+  <img src="https://quickchart.io/chart?w=600&h=300&c=%7Btype%3A%27doughnut%27%2Cdata%3A%7Blabels%3A%5B%27Governan%C3%A7a%20e%20Ger%C3%AAncia%27%2C%27Estrutura%C3%A7%C3%A3o%20de%20Processos%27%2C%27Atendimento%20ao%20Cliente%27%2C%27Gest%C3%A3o%20de%20Servi%C3%A7os%20(ITIL)%27%2C%27Inova%C3%A7%C3%A3o%20e%20IA%27%5D%2Cdatasets%3A%5B%7Bdata%3A%5B25%2C20%2C20%2C15%2C20%5D%2CbackgroundColor%3A%5B%27%230A192F%27%2C%27%23005B9F%27%2C%27%230089D6%27%2C%27%23333333%27%2C%27%230ea5e9%27%5D%7D%5D%7D%2Coptions%3A%7Bplugins%3A%7Blegend%3A%7Bposition%3A%27right%27%2Clabels%3A%7Bfont%3A%7Bsize%3A14%2Cfamily%3A%27sans-serif%27%7D%7D%7D%7D%7D%7D" alt="Gráfico de Atuação" />
 </div>
 
 ---
