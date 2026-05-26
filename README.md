@@ -27,13 +27,12 @@ Criei este espaço como um acervo focado na estruturação e governança de oper
 
 ### 🔄 Ecossistema de Processos e Relacionamento
 
-🏢 **Estratégia e Negócios**
- ┣━ ⚖️ **Governança de TI**
- ┃   ┣━ ⚙️ **Gestão de Serviços (ITSM)** ➔ Suporte e Atendimento
- ┃   ┗━ 📈 **Gestão de Processos** ➔ Melhoria Contínua
- ┃
- ┗━ 🤝 **Cliente Final (Relacionamento)**
-     ┗━ 🔄 *Feedback e Geração de Valor*
+- 🏢 **Estratégia e Negócios**
+  - ⚖️ **Governança de TI**
+    - ⚙️ **Gestão de Serviços (ITSM)** ➔ Suporte e Atendimento
+    - 📈 **Gestão de Processos** ➔ Melhoria Contínua
+  - 🤝 **Cliente Final (Relacionamento)**
+    - 🔄 *Feedback e Geração de Valor*
 
 ---
 
